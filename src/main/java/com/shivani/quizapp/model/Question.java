@@ -1,4 +1,4 @@
-package com.shivani.quizapp;
+package com.shivani.quizapp.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
